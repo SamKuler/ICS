@@ -1,0 +1,6 @@
+Size: 65536
+Loops: 1000000
+Batch size: 8
+Initialization done
+naive: 33.93 ns per search, 2.12 ns per access
+coroutine batched: 626.97 ns per search, 39.19 ns per access
